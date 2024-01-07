@@ -116,7 +116,7 @@ section {
   font-size: 18px;
   font-weight: 500;
   line-height: 30px;
-  margin-bottom: 30pх;
+  margin-bottom: 30px;
 }
 .button {
   display: inline-flex;
@@ -182,7 +182,7 @@ header.sticky {
   color: #5e6282;
   font-weight: 600;
   text-transform: uppercase;
-  line-height: 30pх;
+  line-height: 30px;
 }
 .center-text h2 {
   font-size: 50px;
@@ -199,7 +199,7 @@ header.sticky {
   text-align: center;
 }
 .row {
-  padding: б0рх 65рх;
+  padding: 60px 65px;
   background-color: #fff;
   box-shadow: rgba(0, 0, 0, 0.2) -4px 9px 25px -6px;
   transition: all 0.42s;
@@ -210,7 +210,7 @@ header.sticky {
   margin-bottom: 20px;
 }
 .row h5 {
-  font-size: 1бpx;
+  font-size: 16px;
   color: #1e1d4c;
   font-weight: 600;
   margin-bottom: 15px;
